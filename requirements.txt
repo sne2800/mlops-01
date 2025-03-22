@@ -1,0 +1,9 @@
+tensorflow
+autokeras
+keras-tuner
+optuna
+deepchecks
+scikit-learn
+numpy
+matplotlib
+pandas
